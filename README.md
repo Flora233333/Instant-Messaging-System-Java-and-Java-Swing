@@ -12,4 +12,4 @@
 
 - also can send group message.
 
-Maybe In the future I will add the Offline Message Function😋 ~~(but who knows?)~~
+Maybe In the future I will add the Offline Message Function and DataBase😋 ~~(but who knows?)~~
