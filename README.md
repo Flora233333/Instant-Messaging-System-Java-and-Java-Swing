@@ -2,7 +2,7 @@
 
 **A Instant Messaging System Complete write by Java and Java Swing**
 
-*GUI is so hard for me to produce*😥
+*Use Java Swing to write GUI is so hard for me*😥
 
 **Ok, this progarme implement:🎈**
 
@@ -12,4 +12,4 @@
 
 - also can send group message.
 
-Maybe in the future I will add the Offline Message Function😋 ~~(but who knows?)~~
+Maybe In the future I will add the Offline Message Function😋 ~~(but who knows?)~~
